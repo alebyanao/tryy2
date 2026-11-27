@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3A,100:1B7F3B&height=150&section=header&text=Task%206%3A%20Control&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Barunastra%20Internship%202026&descAlignY=60&descSize=16" alt="Task 6: Control" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1A3A,100:1B7F3B&height=150&section=header&text=Task%206%3A%20Control&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Barunastra%202026&descAlignY=60&descSize=16" alt="Task 6: Control" />
 
 ![Division](https://img.shields.io/badge/Division-PGR-1B7F3B?style=for-the-badge)
 ![Owner](https://img.shields.io/badge/Owner-@alebyanao-1F3864?style=for-the-badge&logo=github&logoColor=white)
